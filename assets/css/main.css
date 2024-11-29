@@ -162,7 +162,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #ffffff;
+		color: #CD6D22;
 		font-weight: 600;
 	}
 
@@ -637,6 +637,12 @@ input, select, textarea {
 
 /* Image */
 
+		.profilep {
+			width: 30%;
+			float: left;
+			margin-right: 1.5rem;
+		}
+
 	.image {
 		border-radius: 4px;
 		border: 0;
@@ -1071,6 +1077,7 @@ input, select, textarea {
 			font-size: 0.6rem;
 			height: 2.0625rem;
 			line-height: 2.0625rem;
+			margin-right: 1rem;
 		}
 
 		input[type="submit"].primary,
@@ -1158,7 +1165,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("../../images/Desktop\ -\ 1\ \(1\).png");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
